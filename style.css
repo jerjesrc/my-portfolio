@@ -57,6 +57,10 @@ header{
   text-align: center;
 }
 
+header a {
+  padding: 20px;
+}
+
 footer {
   text-align: center;
 }
